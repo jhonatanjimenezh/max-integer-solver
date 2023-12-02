@@ -1,0 +1,14 @@
+com.example.maxintegersolver
+com.example.maxintegersolver.adapter.controller
+com.example.maxintegersolver.adapter.controller.model
+com.example.maxintegersolver.adapter.h2
+com.example.maxintegersolver.adapter.h2.models
+com.example.maxintegersolver.application.port.in
+com.example.maxintegersolver.application.port.out
+com.example.maxintegersolver.application.usecase
+com.example.maxintegersolver.config
+com.example.maxintegersolver.config.exception
+com.example.maxintegersolver.domain
+com.example.maxintegersolver.domain.service
+com.example.maxintegersolver.domain.util
+com.example.maxintegersolver.mocks
